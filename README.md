@@ -63,6 +63,7 @@ Catalogs of AI tools that send long-tail traffic and a backlink. Many charge a r
 - [Toolify](https://www.toolify.ai) - High-traffic AI tools directory. Free submission form for tools and GPTs. **Cost:** Free. [Submit here](https://www.toolify.ai/submit).
 - [Toolpilot](https://www.toolpilot.ai) - AI tools directory. Free listing requires adding their badge or logo to your site first (link back). **Cost:** Free with link back. [Submit here](https://www.toolpilot.ai/pages/submit-your-ai-tool).
 - [TopAI.tools](https://topai.tools) - AI tools directory with editorial review. $47 one-time listing, $229 featured for 7 days. Automatic refund if your tool is not accepted. **Cost:** Paid from $47. [Submit here](https://topai.tools/submit).
+- [Vantaige](https://vantaige.io) - AI tools directory and media hub: 600+ curated tools, a prompts library and AI calculators. Free basic listing needs a backlink and a 2-4 week review queue. Paid: Verified badge $25 one-time, Featured $49/30 days or $99/90 days, Spotlight $189 for 90 days with homepage placement and a sponsored story. **Cost:** Free (backlink required; paid from $25). [Submit here](https://vantaige.io/list-your-ai-tool).
 
 ## App, plugin and agent stores
 
