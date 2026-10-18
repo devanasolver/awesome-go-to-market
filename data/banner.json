@@ -1,0 +1,35 @@
+{
+ "tile_words": [
+  "LAUNCH",
+  "PRODUCT HUNT",
+  "DIRECTORY",
+  "BACKLINK",
+  "SHOW HN",
+  "REVIEWS",
+  "SUBMIT",
+  "TRAFFIC",
+  "GTM",
+  "LISTING",
+  "REDDIT",
+  "NEWSLETTER",
+  "STORE",
+  "BETA",
+  "FIRST USERS"
+ ],
+ "gradient": [
+  [14, 122, 95],
+  [20, 60, 120],
+  [160, 40, 90]
+ ],
+ "title": [
+  "Go-To-Market",
+  "For AI Apps"
+ ],
+ "cta1": "CLICK HERE TO PLAN YOUR LAUNCH",
+ "cta2": "WITH",
+ "brand": "G2M Launch",
+ "brand_color": [14, 122, 95],
+ "foot": "GTM execution for AI startups at g2mlaunch.ai.studio  |  Every entry opened and verified",
+ "logos": [],
+ "logo_caption": ""
+}

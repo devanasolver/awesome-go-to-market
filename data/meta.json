@@ -1,0 +1,48 @@
+{
+ "categories": [
+  {
+   "id": "launch",
+   "title": "Launch platforms",
+   "anchor": "launch-platforms",
+   "blurb": "Sites built around launch day: post your product, get votes and feedback. Best used one or two at a time, with a real launch post, not all at once."
+  },
+  {
+   "id": "directories",
+   "title": "AI tool directories",
+   "anchor": "ai-tool-directories",
+   "blurb": "Catalogs of AI tools that send long-tail traffic and a backlink. Many charge a review or listing fee; the cost column says which."
+  },
+  {
+   "id": "stores",
+   "title": "App, plugin and agent stores",
+   "anchor": "app-plugin-and-agent-stores",
+   "blurb": "Marketplaces where your product lives inside another platform: ChatGPT, Chrome, WordPress, Hugging Face, MCP registries and deal marketplaces."
+  },
+  {
+   "id": "reviews",
+   "title": "Review and comparison sites",
+   "anchor": "review-and-comparison-sites",
+   "blurb": "Where buyers compare software. Claim a free profile early; reviews collect slowly, so start before you need them."
+  },
+  {
+   "id": "newsletters",
+   "title": "Newsletters and media",
+   "anchor": "newsletters-and-media",
+   "blurb": "Big AI newsletters. These are paid promotions, priced per send. Best for a launch spike, not a first step."
+  },
+  {
+   "id": "communities",
+   "title": "Communities",
+   "anchor": "communities",
+   "blurb": "Free, but the currency is reputation. Read each community's rules, post from a real account, and share the story, not just the link."
+  },
+  {
+   "id": "lists",
+   "title": "Awesome lists",
+   "anchor": "awesome-lists",
+   "blurb": "GitHub awesome lists that accept your project by pull request. Slow but free, and the backlink is permanent."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Go-To-Market</h1>\n\n<p align=\"center\"><a href=\"https://g2mlaunch.ai.studio/\"><img src=\"assets/banner.png\" alt=\"Awesome Go-To-Market. Click here to plan your launch with G2M Launch.\" width=\"100%\"></a></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-go-to-market/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-go-to-market\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-go-to-market/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-go-to-market?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://g2mlaunch.ai.studio/\"><img src=\"https://img.shields.io/badge/GTM%20execution-g2mlaunch.ai.studio-0e7a5f?style=for-the-badge\" alt=\"G2M Launch - go-to-market for AI startups\"></a>\n</p>\n\n> Where to launch and list your AI app: launch platforms, AI directories, app stores, review sites, newsletters and communities.\n\nYou built the thing. Now it needs to be in front of people. This list collects the places that accept AI products and says what each one costs.\n\n**Rules of this list:** every site was opened and checked on the verified date: the site is live, submissions are open, and the free-vs-paid column reflects what the site itself says. Each line links to the real submission page, not just the homepage. Details of how entries are checked are in [CONTRIBUTING.md](CONTRIBUTING.md).\n\nPart of a series of use-case directories. Last full check: 2026-10-18.\n",
+ "footer": "## How to use this list\n\n- **Launch week:** pick one big stage (Product Hunt or a smaller launch platform if you want a real shot at the top 3) plus Hacker News if your product is genuinely ready to try. Prepare the post the day before.\n- **Weeks 2-4:** submit to the free directories (Toolify, Future Tools, Dang.ai with a backlink, Toolpilot, SaaSHub). Paid directory listings are worth it only on sites whose audience matches your product.\n- **Claim profiles early:** G2, Capterra, Trustpilot and AlternativeTo are free and take time to collect reviews. Start now, not when a buyer asks.\n- **If your product fits a store:** a Chrome extension, WordPress plugin, GPT, Hugging Face Space or MCP server gets discovered inside the platform itself. That is usually better traffic than any directory.\n- **Communities are not billboards:** accounts that only post their own product get banned. Comment, help, then share.\n- **Paid newsletters:** only after you know your conversion numbers. A $1,000 send that converts at zero is an expensive lesson.\n- **Be careful with paid listings:** prices change and some directories sell mostly backlinks. Check the current price on the site itself before paying.\n\n## Contributing\n\nPlease read [CONTRIBUTING.md](CONTRIBUTING.md). Short version: open a pull request, one site per PR, use the template. Real submission pages only, written in plain words, with the cost stated honestly.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver), who also runs [G2M Launch](https://g2mlaunch.ai.studio/), a go-to-market agency for AI startups. Listings are decided by the criteria in CONTRIBUTING, not by who pays.\n"
+}
