@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add MEDIAPRONET to directories.
+
 ## 2026-10-18
 
 - First version: 42 verified places to launch and list an AI app, in 7 categories.
