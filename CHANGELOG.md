@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- Add MeetNewAI under AI tool directories.
+
 
 ## 2026-10-18
 
